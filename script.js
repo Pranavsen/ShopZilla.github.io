@@ -124,7 +124,7 @@ function updateCartTotal() {
 
 // countdown//////////////////
 
-let launchDate = new Date("oct 28, 2022 12:00:00").getTime();
+let launchDate = new Date("dec 30, 2022 12:00:00").getTime();
 let timer = setInterval(tick, 1000);
 
 function tick () {
